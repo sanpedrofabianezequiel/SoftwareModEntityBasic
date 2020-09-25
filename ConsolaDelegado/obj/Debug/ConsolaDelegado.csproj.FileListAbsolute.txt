@@ -1,0 +1,7 @@
+C:\Users\sanpe\source\repos\Modelo\ConsolaDelegado\bin\Debug\ConsolaDelegado.exe.config
+C:\Users\sanpe\source\repos\Modelo\ConsolaDelegado\bin\Debug\ConsolaDelegado.exe
+C:\Users\sanpe\source\repos\Modelo\ConsolaDelegado\bin\Debug\ConsolaDelegado.pdb
+C:\Users\sanpe\source\repos\Modelo\ConsolaDelegado\obj\Debug\ConsolaDelegado.csprojAssemblyReference.cache
+C:\Users\sanpe\source\repos\Modelo\ConsolaDelegado\obj\Debug\ConsolaDelegado.csproj.CoreCompileInputs.cache
+C:\Users\sanpe\source\repos\Modelo\ConsolaDelegado\obj\Debug\ConsolaDelegado.exe
+C:\Users\sanpe\source\repos\Modelo\ConsolaDelegado\obj\Debug\ConsolaDelegado.pdb

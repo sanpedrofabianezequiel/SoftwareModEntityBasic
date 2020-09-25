@@ -1,0 +1,15 @@
+C:\Users\sanpe\source\repos\Modelo\Datos\bin\Debug\Datos.dll.config
+C:\Users\sanpe\source\repos\Modelo\Datos\bin\Debug\Datos.dll
+C:\Users\sanpe\source\repos\Modelo\Datos\bin\Debug\Datos.pdb
+C:\Users\sanpe\source\repos\Modelo\Datos\bin\Debug\EntityFramework.dll
+C:\Users\sanpe\source\repos\Modelo\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sanpe\source\repos\Modelo\Datos\bin\Debug\Modelo.dll
+C:\Users\sanpe\source\repos\Modelo\Datos\bin\Debug\Modelo.pdb
+C:\Users\sanpe\source\repos\Modelo\Datos\bin\Debug\Modelo.dll.config
+C:\Users\sanpe\source\repos\Modelo\Datos\bin\Debug\EntityFramework.xml
+C:\Users\sanpe\source\repos\Modelo\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sanpe\source\repos\Modelo\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\sanpe\source\repos\Modelo\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\sanpe\source\repos\Modelo\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\sanpe\source\repos\Modelo\Datos\obj\Debug\Datos.dll
+C:\Users\sanpe\source\repos\Modelo\Datos\obj\Debug\Datos.pdb
